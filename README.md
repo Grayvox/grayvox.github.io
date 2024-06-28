@@ -1,28 +1,6 @@
-# Dante - Astro & Tailwind CSS Theme by justgoodui.com
+# Grayvox Official Website v1
 
-Dante is a single-author blog and portfolio theme for Astro.js. Featuring a minimal, slick, responsive and content-focused design. For more Astro.js themes please check [justgoodui.com](https://justgoodui.com/).
-
-![Dante Astro.js Theme](public/dante-preview.jpg)
-
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JustGoodUI/dante-astro-theme)
-
-If you click this☝️ button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
-
-## Theme Features:
-
-- ✅ Dark and light color mode
-- ✅ Hero section with bio
-- ✅ Portfolio collection
-- ✅ Pagination support
-- ✅ Post tags support
-- ✅ Subscription form
-- ✅ View transitions
-- ✅ Tailwind CSS
-- ✅ Mobile-first responsive layout
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+This is the first iteration of my personal website. It's very simple compared to what I plan on making at some point, though it's a fantastic website for now. Built with Astro, Tailwind CSS, and the Dante theme.
 
 ## Template Integrations
 
@@ -80,12 +58,7 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 
 ## Credits
 
-- Demo content generate with [Chat GPT](https://chat.openai.com/)
-- Images for demo content from [Unsplash](https://unsplash.com/)
-
-## Astro Themes by Just Good UI
-
-- [Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) is a free single author blog theme.
+- This theme, Dante, was created by [JustGoodUI](https://justgoodui.com/).
 
 ## License
 

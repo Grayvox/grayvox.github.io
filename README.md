@@ -11,8 +11,6 @@ This is the first iteration of my personal website. It's very simple compared to
 
 ## Project Structure
 
-Inside of Dante Astro theme, you'll see the following folders and files:
-
 ```text
 ├── public/
 ├── src/
@@ -39,7 +37,7 @@ The `src/content/` directory contains "collections" of related Markdown and MDX 
 
 Any static assets, like images, can be placed in the `public/` directory.
 
-## Astro.js Commands
+## Astro Commands
 
 All commands are run from the root of the project, from a terminal:
 
@@ -52,7 +50,7 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## Want to learn more about Astro.js?
+## Want to learn more about Astro?
 
 Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 

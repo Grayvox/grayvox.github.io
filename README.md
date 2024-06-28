@@ -4,10 +4,10 @@ This is the first iteration of my personal website. It's very simple compared to
 
 ## Template Integrations
 
-- @astrojs/tailwind - https://docs.astro.build/en/guides/integrations-guide/tailwind/
-- @astrojs/sitemap - https://docs.astro.build/en/guides/integrations-guide/sitemap/
-- @astrojs/mdx - https://docs.astro.build/en/guides/markdown-content/
-- @astrojs/rss - https://docs.astro.build/en/guides/rss/
+- @astrojs/tailwind - <https://docs.astro.build/en/guides/integrations-guide/tailwind/>
+- @astrojs/sitemap - <https://docs.astro.build/en/guides/integrations-guide/sitemap/>
+- @astrojs/mdx - <https://docs.astro.build/en/guides/markdown-content/>
+- @astrojs/rss - <https://docs.astro.build/en/guides/rss/>
 
 ## Project Structure
 

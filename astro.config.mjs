@@ -6,7 +6,6 @@ import tailwind from '@astrojs/tailwind';
 // https://astro.build/config
 export default defineConfig({
     site: 'https://grayvox.github.io',
-    base: 'website-v1',
     integrations: [
         mdx(),
         sitemap(),

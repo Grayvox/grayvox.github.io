@@ -12,7 +12,7 @@ It doesn't provide much, those words, outside signifying this is the "beginning"
 
 So, what is this? Unless you weren't paying attention to the _very obvious giveaways_, it's a blog. My blog, specifically. As of now you won't be getting a name outside Gray, taken from my _very obvious username_. I prefer that name though, because of the general approach it takes. They say you should always view the world in shades of gray, so why not view me like that too? I have many sides to myself, some more interesting than others, but all important nonetheless.
 
-If you truly need an explanation on who I am, you can visit the [About](../pages/about.md) page for that. But here I want to establish what this blog is going to focus on: Nothing.
+If you truly need an explanation on who I am, you can visit the About page for that. But here I want to establish what this blog is going to focus on: Nothing.
 
 Nothing, as in nothing specific. It will be my thoughts on any number of things - but I can guarentee they'll always have something to do with the internet. I'm fasinating by it, if you weren't able to tell - the idea of sharing information, that can be accessed through whatever web browser and search engine you choose. Admittedly though, most of you are using [Chrome](https://gs.statcounter.com/browser-market-share) and [Google](https://gs.statcounter.com/search-engine-market-share), respectively, for that (No judgement though, as Chrome is especially useful from a dev standpoint for [good reason](https://www.quora.com/Do-most-software-developers-prefer-using-Google-Chrome-or-Mozilla-Firefox-for-web-development-and-why)).
 

@@ -73,7 +73,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Welcome to my little corner on the internet.',
-        text: "Oh, and it's Gray for short. I yell at computers for a living - whatever that living actually is. FOSS forever, ClosedAI never. I builds apps, websites, and online resources to make your life a bit cooler. Though you won't find open repos for them, I also make games over on [Itch](https://grayvox.itch.io), which are built with whatever I find interesting at the time (but usually [Godot](https://www.godotengine.org))."
+        text: "Oh, and it's Gray for short. I yell at computers for a living - whatever that living actually is. FOSS forever, ClosedAI never. I build apps, websites, and online resources to make your life a bit cooler. Though you won't find open repos for them, I also make games over on [Itch](https://grayvox.itch.io), which are built with whatever I find interesting at the time (but usually [Godot](https://www.godotengine.org))."
     },
     subscribe: {
         title: 'Subscribe :)',

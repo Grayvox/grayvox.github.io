@@ -38,13 +38,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
-    image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
-    },
+    title: 'Grayvox',
+    subtitle: 'A wolf destined for greatness... hopefully.',
+    description: "Welcome to my little corner on the internet.",
     headerNavLinks: [
         {
             text: 'Home',
@@ -67,51 +63,21 @@ const siteConfig: SiteConfig = {
         {
             text: 'About',
             href: '/about'
-        },
-        {
-            text: 'Contact',
-            href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'github',
+            href: 'https://github.com/Grayvox'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
-        image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
-        },
-        actions: [
-            {
-                text: 'Get in Touch',
-                href: '/contact'
-            }
-        ]
+        title: 'Welcome to my little corner on the internet.',
+        text: "Oh, and it's Gray for short. I yell at computers for a living - whatever that living actually is. FOSS forever, ClosedAI never. I builds apps, websites, and online resources to make your life a bit cooler. Though you won't find open repos for them, I also make games over on [Itch](https://grayvox.itch.io), which are built with whatever I find interesting at the time (but usually [Godot](https://www.godotengine.org))."
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
+        title: 'Subscribe :)',
+        text: "Whenever I post, you will know... whenever that is. Don't worry, it won't get shared outside this website, I hate that stuff as much as you do.",
         formUrl: '#'
     },
     postsPerPage: 8,

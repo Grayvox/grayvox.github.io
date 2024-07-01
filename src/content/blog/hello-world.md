@@ -1,6 +1,6 @@
 ---
 title: Hello, world
-excerpt: In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes.
+excerpt: In traditional computer science fashion, we're starting this blog with the only possible choice...
 publishDate: 'Jul 1 2024'
 tags:
   - Hello world

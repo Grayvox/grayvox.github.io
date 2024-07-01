@@ -31,7 +31,7 @@ This is the first iteration of my personal website. It's very simple compared to
 
 Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro (`.astro`) components.
+There's nothing special about `src/components/`, but that's where to put any Astro (`.astro`) components.
 
 The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
 

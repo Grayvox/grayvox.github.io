@@ -2,6 +2,7 @@
 title: Hello, world
 excerpt: In traditional computer science fashion, we're starting this blog with the only possible choice...
 publishDate: 'Jul 1 2024'
+isFeatured: true
 tags:
   - Hello world
 ---

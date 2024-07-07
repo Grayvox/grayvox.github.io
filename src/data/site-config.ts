@@ -93,7 +93,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Welcome to my little corner on the internet.',
-        text: "I go by Grayvox - or Gray for short.  yell at computers for a living - whatever that living actually is. FOSS forever, ClosedAI never. I build apps, websites, and online resources to make your life a bit cooler. Though you won't find open repos for them, I also make games over on [Itch](https://grayvox.itch.io), which are built with whatever I find interesting at the time (but usually [Godot](https://www.godotengine.org))."
+        text: "I go by Grayvox - or Gray for short. I yell at computers for a living - whatever that living actually is. \n\nFOSS forever, ClosedAI never. \n\nI write stories and build stuff with code, often at the same time. \n\nPretty much everything I do is open source on [GitHub](https://www.github.com/Grayvox) - apps, websites, resources, gists... and stuff to make your life a little easier. \n\nThough you won't find open repos for them, I also make games to tell my stories. Stay tuned for more on that one."
     },
     subscribe: {
         title: 'Subscribe :)',

@@ -2,7 +2,7 @@
 title: Hello, world
 excerpt: In traditional computer science fashion, we're starting this blog with the only possible choice...
 publishDate: 'Jul 1 2024'
-isFeatured: true
+isFeatured: false
 tags:
   - Hello world
 ---
@@ -15,7 +15,7 @@ So, what is this? Unless you weren't paying attention to the _very obvious givea
 
 If you truly need an explanation on who I am, you can visit the About page for that. But here I want to establish what this blog is going to focus on: Nothing.
 
-Nothing, as in nothing specific. It will be my thoughts on any number of things - but I can guarentee they'll always have something to do with the internet. I'm fasinating by it, if you weren't able to tell - the idea of sharing information, that can be accessed through whatever web browser and search engine you choose. Admittedly though, most of you are using [Chrome](https://gs.statcounter.com/browser-market-share) and [Google](https://gs.statcounter.com/search-engine-market-share), respectively, for that (No judgement though, as Chrome is especially useful from a dev standpoint for [good reason](https://www.quora.com/Do-most-software-developers-prefer-using-Google-Chrome-or-Mozilla-Firefox-for-web-development-and-why)).
+Nothing, as in nothing specific. It will be my thoughts on any number of things - but I can guarantee they'll always have something to do with the internet. I'm fascinated by it, if you weren't able to tell - the idea of sharing information, that can be accessed through whatever web browser and search engine you choose. Admittedly though, most of you are using [Chrome](https://gs.statcounter.com/browser-market-share) and [Google](https://gs.statcounter.com/search-engine-market-share), respectively, for that (No judgement though, as Chrome is especially useful from a dev standpoint for [good reason](https://www.quora.com/Do-most-software-developers-prefer-using-Google-Chrome-or-Mozilla-Firefox-for-web-development-and-why)).
 
 This doesn't matter all that much in a lot of ways, but it does bring to light the unfortunate reality of big corporations "owning" the passage of the internet. Still, whatever you're using to read this web page, I can't complain. After all, I don't know why you'd want to read from me in the first place.
 

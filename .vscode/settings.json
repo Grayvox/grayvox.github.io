@@ -23,5 +23,6 @@
     "typescript.tsdk": "node_modules/typescript/lib",
     "files.associations": {
         "*.css": "tailwindcss",
-    }
+    },
+    "editor.fontFamily": "'Cascadia Mono', Consolas, 'Courier New', monospace"
 }

@@ -93,12 +93,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Welcome to my little corner on the internet.',
-        text: "I go by Grayvox - or Gray for short. I yell at computers for a living - whatever that living actually is. \n\nFOSS forever, ClosedAI never. \n\nI write stories and build stuff with code, often at the same time. \n\nPretty much everything I do is open source on [GitHub](https://www.github.com/Grayvox) - apps, websites, resources, gists... and stuff to make your life a little easier. \n\nThough you won't find open repos for them, I also make games to tell my stories. Stay tuned for more on that one."
-    },
-    subscribe: {
-        title: 'Subscribe :)',
-        text: "Whenever I post, you will know... whenever that is. Don't worry, it won't get shared outside this website, I hate that stuff as much as you do.",
-        formUrl: '#'
+        text: "I go by Grayvox - or Gray for short. I yell at computers for a living - whatever that living actually is. \n\nFOSS forever, ClosedAI never. \n\nI write stories and build stuff with code, often at the same time. \n\nPretty much everything I do is open source on [GitHub](https://www.github.com/Grayvox) - apps, websites, resources, gists... and stuff to make your life a little easier. \n\nThough you won't find open repos for them, I also make games to tell my stories. Most recently, I started working on [Noirdo](https://grayvox.itch.io/noirdo)."
     },
     postsPerPage: 8,
     projectsPerPage: 8

@@ -89,6 +89,22 @@ const siteConfig: SiteConfig = {
         {
             text: 'github',
             href: 'https://github.com/Grayvox'
+        },
+        {
+            text: 'youtube',
+            href: 'https://youtube.com/@Grayvox'
+        },
+        {
+            text: 'twitch',
+            href: 'https://twitch.tv/grayvoxlive'
+        },
+        {
+            text: 'twitter (x???)',
+            href: 'https://x.com/GrayvoxDev'
+        },
+        {
+            text: 'ko-fi',
+            href: 'https://ko-fi.com/grayvox'
         }
     ],
     hero: {

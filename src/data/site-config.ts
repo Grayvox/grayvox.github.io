@@ -105,6 +105,10 @@ const siteConfig: SiteConfig = {
         {
             text: 'ko-fi',
             href: 'https://ko-fi.com/grayvox'
+        },
+        {
+            text: 'more links',
+            href: 'https://linktr.ee/grayvox'
         }
     ],
     hero: {

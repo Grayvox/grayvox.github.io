@@ -12,12 +12,13 @@ As of the "publishing" date (aka, the date of last edit) I run a total of 3 YouT
 
 ## Grayvox
 
-Grayvox, my main channel, is the one I consider to be my "front facing" one. I produce content surrounding design, development, writing and history of games. The way I do this is by creating videos that usually surround one game (or type/genre of game) and use them as a way to explain why I think they are well made and what can be learned from them. I don't want to only produce entertainment, I want to produce engaging content that viewers can walk away learning a bit from. For this, the audience I play into is usually those in writing and storytelling in some shape or form - though usually with video games.
+Grayvox, my main channel, is the one I consider to be my "front facing" one. I produce content surrounding design, development, and writing of games, TV shows, characters, worlds and... really just any form of story. The way I do this is by creating videos that usually surround one game/scene/character and use them as a way to explain why I think they are well made and what can be learned from them (and also concern my viewers with the insanity of my brain). I don't want to only produce entertainment, I want to produce engaging content that viewers can walk away learning a bit from. For this, the audience I play into is usually those in writing and storytelling in some shape or form.
 
 On this channel, I also produce a number of series that get actively added to. These series include:
 
 - **Random Game Ideas**: A short form video series where I talk through a random idea I had for a video game, ARG, or digital experience of some kind.
-- **Hauntings of Itch**: A monthly series focused on 3 unsettling games I found and tried out, each with their own mini lecture attached on what my thoughts on the game were and what I think is important to take from for the purposes of learning to build your own stories.
+- **Random Story Ideas**: Like the previous, except more focused on TV shows and movies.
+- **Character Rants**: A series focused on ranting about specific characters in media I find compelling and important in some shape or form to their story or just storytelling in general.
 
 ## Grayvox Live
 

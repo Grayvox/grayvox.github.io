@@ -24,7 +24,7 @@ But of course, I couldn't just start _one_ YouTube channel - I also wanted to li
 
 Surely, it would be different.
 
-### Okay, enough depression
+## Okay, enough depression
 
 If only for a minute, before we finish this short little rant, let's reflect. I don't expect anyone to relate to what I've said - I know some will, and some won't. But that's not the point - the point is this cycle is endless for me. I never stop, I always go back to square one. But... maybe it won't always be that. Call me a dreamer but I think someday it'll seem clearer - I mean, that logic _did_ kind of get me into this mess, but maybe it'll be real in the future. Maybe I will be successful. Maybe I will publish that book. Maybe I will be all I think I can be.
 
